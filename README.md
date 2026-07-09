@@ -151,11 +151,10 @@ The dashboard helps stakeholders quickly identify:
 ## Repository Contents
 
 - `electric-vehicle-analysis.pbix` – Interactive Power BI dashboard.
-- `electric-vehicle-data.xlsx` – Dataset used for analysis.
-- `Electric Vehicle Presentation.pdf` – Project problem statement and presentation.
-- `images/electric-vehicle-analysis.png` – Dashboard preview.
+- `electric-vehicle-analysis.png` – Dashboard preview.
 - `README.md` – Project documentation.
 
+> **Note:** The dataset has been excluded from this repository due to GitHub file size limitations.
 ---
 
 ## What I Learned
